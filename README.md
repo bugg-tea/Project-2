@@ -14,4 +14,5 @@ This project focuses on detecting whether two given questions are duplicates. In
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1 Score, AUC.  
 - **Deployment Ready:** Contains `requirements.txt`, `setup.sh`, and modularized code (`helper.py`, `app.py`).  
 
-you can refer this data set here :- 
+you can refer this data set here :-  https://www.kaggle.com/c/quora-question-pairs
+
